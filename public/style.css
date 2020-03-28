@@ -1,0 +1,82 @@
+*{
+  box-sizing: border-box;
+
+}
+table{
+
+  width: 100%;
+}
+
+td{
+  width: 30%;
+  border: 3px dashed black;
+  font-size: 2rem;
+  padding: 1rem;
+  border-radius: 4px;
+}
+body{
+  background: url("routletteBKNG.png" )left top / cover repeat;
+  background-color: green;
+  font-size: 20px;
+
+
+}
+#logSignButton{
+  background: black;
+  color:white;
+  text-decoration: none;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 15%;
+  border-radius: 10%;
+
+}
+#margin{
+  margin-left:50%;
+  background: black;
+  color:white;
+  text-decoration: none;
+  font-size: 2em;
+  text-align: center;
+  border-radius: 10%;
+}
+#winRes,#scoreboard,#balance,form{
+  display:block;
+  float: left;
+  width: 60%;
+  margin-left: 20%;qqqqqqqqqq
+  text-align: center;
+  font-size: 1.25em;
+}
+#winRes>h2{
+  color:white;
+  background: black;
+}
+
+h2,h4{
+  color:white;
+  background: black;
+  text-align: center;
+}
+span,#total{
+    text-transform: uppercase;
+    text-align:center;
+}
+#winRes>section{
+  display:block;
+  float: left;
+  width: 48%;
+  text-align: center;
+
+
+}
+#winResComp{
+  margin: 2%;
+}
+
+select,input,button{
+  width: 19%;
+  height: 50px;
+  text-align:center;
+  font-size: 1.5em;
+}
