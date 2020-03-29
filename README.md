@@ -1,6 +1,5 @@
 # roluetteSim
 a simulation of the game roulette
-
 # How It's Made:
 HTML/EJS
 CSS
